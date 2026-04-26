@@ -3,8 +3,8 @@ import pandas as pd
 import pickle
 
 # Load model & scaler
-model = pickle.load(open('model.pkl', 'rb'))
-scaler = pickle.load(open('scaler.pkl', 'rb'))
+model = pickle.load(open('/workspaces/credit_bill/notebook/model.pkl', 'rb'))
+scaler = pickle.load(open('/workspaces/credit_bill/notebook/scaler.pkl', 'rb'))
 
 st.title("💳 Credit Card Default Prediction")
 
