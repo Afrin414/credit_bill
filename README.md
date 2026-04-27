@@ -1,3 +1,3 @@
 # credit_bill
 my deployed application link
-https://psychic-zebra-gxqxpvqj499gh9695-8503.app.github.dev/
+(https://creditbill-bmppzric23vagda3w7bqwr.streamlit.app/)
